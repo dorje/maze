@@ -8,7 +8,7 @@ Overview
 
 This code follows the description of the Deep Q Learning algorithm described in Playing Atari with Deep Reinforcement Learning [2] and shows that this learning algorithm can be further used in playing maze games.
 
-The agent is expected to find the best way going to 'room 8' from 'room 1' after exploration the maze.
+The agent is expected to find the best way going to 'room 8' from 'room 1' after its adventure in the maze.
 
 
 Installation Dependencies:
