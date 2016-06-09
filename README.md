@@ -13,14 +13,14 @@ The agent is expected to find the best way going to 'room 8' from 'room 1' after
 
 Installation Dependencies:
 ------
-Python 2.7  
+Python 2.7
 TensorFlow 0.7
 
 How to Run?
 ------
-git clone https://github.com/dorje/maze.git
-cd maze
-python playMaze.py
+git clone https://github.com/dorje/maze.git   
+cd maze  
+python playMaze.py  
 
 
 References
