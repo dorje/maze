@@ -1,6 +1,7 @@
 Using deep reinforcement learning to learn a very simple maze game
 =====
 
+![github](https://github.com/dorje/maze/blob/master/img/room.png "github")
 
 Overview
 ------
