@@ -1,7 +1,6 @@
-# maze
+Using deep reinforcement learning to learn a very simple maze game
 =====
-using deep reinforcement learning to learn a very simple maze game
-=====
+
 
 Overview
 ------
